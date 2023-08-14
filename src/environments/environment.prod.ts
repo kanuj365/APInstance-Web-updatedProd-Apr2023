@@ -1,0 +1,17 @@
+export const environment = {
+    hmr: false,
+    uat: false,
+    demo: false,
+    lahi: false,
+    gj: false,
+    mh: true,
+    jh: false,
+    od: false,
+    production: true,
+    target: "mh",
+    email: "support.ap.lighthouse@lendahandindia.org",
+    // version: "2.21.2.02",
+    version: "2.21.2.14",
+    // ApiBaseUrl: "http://localhost:6013/LighthouseServices/",
+    ApiBaseUrl: "https://ap-api.lighthouse.net.in/LighthouseServices/",
+};
