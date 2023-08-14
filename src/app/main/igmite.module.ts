@@ -416,7 +416,6 @@ import { LabConditionComponent } from 'app/reports/lab-condition/lab-condition.c
 import { ToolListReportComponent } from 'app/reports/tool-list-report/tool-list-report.component';
 import { MaterialListReportComponent } from 'app/reports/material-list-report/material-list-report.component';
 import { PraticalAssesmentReportComponent } from 'app/reports/pratical-assesment-report/pratical-assesment-report.component';
-import { PrivacyPolicyComponent } from './privacy-policy/privacy-policy.component';
 
 const routes: Routes = [
     { path: RouteConstants.Login, component: LoginComponent },
